@@ -17,7 +17,7 @@
 </br>
 </br>
 <p align="left"> 🔭 I’m currently working on Tykkera (https://www.tykkera.com/)</p>
-<p align="left">🌱 I'm searching to learn: Pyton and typescript </p>
+<p align="left">🌱 I'm searching to learn: Python and typescript </p>
 <p align="left">⚡ Fun fact: I stand out for my tireless determination, my sense of responsibility and my proactive attitude. My firm commitment to constant learning enables me to adapt quickly to new technologies and challenges. I am very excited about the possibilities that the web development field offers and I am eager to apply my skills and experience in innovative projects that seek to achieve outstanding levels of quality and effectiveness.</p>
 </br>
 <div align="center">
